@@ -2,11 +2,7 @@
 
 ### Senior Backend Software Engineer | Go | Distributed Systems | Cloud-Native
 
-I'm a Backend Software Engineer with extensive experience building and evolving backend systems, APIs, microservices and distributed architectures.
-
-In recent years, I've been focusing heavily on **Go (Golang)** and cloud-native backend development, working with technologies such as **AWS, Kubernetes, Docker, Terraform, MySQL and observability platforms**.
-
-I enjoy designing systems that are **scalable, maintainable and resilient**, with a strong focus on clean architecture, asynchronous processing and distributed systems.
+I'm a Senior Software Engineer with 15+ years of experience and strong performance over the last 4 years in mission-critical microservices for the banking and financial sector. Solid experience in Golang, Java, and Kotlin, with expertise in Domain-Driven Design (DDD), Clean Architecture, Design Patterns (GoF), and Cloud Native practices. Worked on the core banking platform at Pismo/Visa, dealing with high scalability and regulatory requirements. Solid experience in observability (OpenTelemetry, Prometheus, Grafana, Honeycomb) and container orchestration (Docker/Kubernetes) in production environments. Seeking to evolve into Staff Engineer and Architecture roles, with a focus on technical leadership and business impact.
 
 ---
 
